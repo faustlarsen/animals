@@ -1,8 +1,8 @@
-img {
+#dogg, #catt, #crocc {
   width: 4in;
   display: none;
 }
 
-.card {
-  width: 4in;
+.box {
+  margin-left: 5in;
 }
